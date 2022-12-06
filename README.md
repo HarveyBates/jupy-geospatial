@@ -14,7 +14,7 @@ cd jupy-geospatial
 ### Build docker container
 Runs once, takes about 20 mins. 
 ```bash
-docker built -t pygeo .
+docker build -t pygeo .
 ```
 
 ### Run
